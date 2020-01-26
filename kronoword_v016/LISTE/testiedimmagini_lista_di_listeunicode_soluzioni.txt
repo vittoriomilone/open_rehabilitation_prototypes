@@ -1,0 +1,1 @@
+[ ['mouse_resize.JPG',u'topo\u0332', 'topo' ],['pacio_resize.JPG', u'uomo', 'uomo'],['miao_resize.JPG',u'gatto','gatto'],['bigi_resize.JPG',u'donna','donna'], ['piccione_resize.JPG', u'piccione', 'piccione'],['green.JPG', u'','ctlopazzore'] ]
